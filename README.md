@@ -20,11 +20,11 @@ Data Source: Week by Week Totals.xlsx, Weekly Inventory Sheets.xlsx
 
 ## Results:
 
-According to the month to month from each year, we can see that there was a loss compared to 2019 profits, ranging from 10-20k difference a month. 
+According to the month to month from each year, we can see that 2019 was the most profitable year and 2020 was the lowest. March seems to be the most profitable month for each year. October seems to have an increase of sales each year also.
 
 <img src="./Resources/ymd.png" width="500">
 
-Within the 4 years, it seems the 1st and 2nd quarter outperforms the 3rd and 4th quarter.
+Within the 4 years, it seems the 1st and 2nd quarter outperforms the 3rd and 4th quarter. When comparing 2018 to 2021, 2021 has a lower 1st quarter but a higher 2nd and 3rd quarter. 
 
 <img src="./Resources/quarterly.png" width="500">
 
