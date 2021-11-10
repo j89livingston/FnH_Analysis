@@ -20,6 +20,8 @@ Data Source: Week by Week Totals.xlsx, Weekly Inventory Sheets.xlsx
 
 ## Results:
 
+Full Tableau Analysis: <a href="https://public.tableau.com/app/profile/justin.livingston/viz/FnH1/MonthtoMonth"> Fox and Hound Tableau Workbook </a>
+
 According to the month to month from each year, we can see that 2019 was the most profitable year and 2020 was the lowest. March seems to be the most profitable month for each year. October seems to have an increase of sales each year also.
 
 <img src="./Resources/ymd.png" width="500">
